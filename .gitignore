@@ -6,3 +6,5 @@ cached_data/*
 *__pycache__*
 venv
 .vscode
+*.DS_Store
+.DS_Store
