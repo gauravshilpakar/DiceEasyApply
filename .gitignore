@@ -1,0 +1,8 @@
+chrome_data/
+*.docx
+*.pdf
+chromedriver.exe
+cached_data/*
+*__pycache__*
+venv
+.vscode
